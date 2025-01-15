@@ -1,0 +1,10 @@
+{
+    "1": {
+        "nombre": "Producto A",
+        "cantidad": 50
+    },
+    "2": {
+        "nombre": "Producto B",
+        "cantidad": 30
+    }
+}
