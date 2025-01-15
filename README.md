@@ -132,23 +132,23 @@ Este archivo almacena los productos del inventario. Este archivo para poderse ej
 }
 ```
 
-### **Archivo ** **`app.py`**
+### **Archivo** **`app.py`**
 
 Contiene el código principal de la API, incluyendo las rutas y la lógica para manejar el inventario.
 
-### **Archivo ** **`index.html`**
+### **Archivo** **`index.html`**
 
 Una interfaz básica para interactuar con la API desde el navegador.
 
-### **Archivo ** **`styles.css`**
+### **Archivo** **`styles.css`**
 
 Estilos para la interfaz web.
 
-### **Archivo ** **`scripts.js`**
+### **Archivo** **`scripts.js`**
 
 Contiene la lógica de JavaScript para enviar solicitudes a la API y mostrar las respuestas.
 
-### **Archivo ** **`test_app.py`**
+### **Archivo** **`test_app.py`**
 
 Pruebas unitarias para verificar el correcto funcionamiento de la API.
 
