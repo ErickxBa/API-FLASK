@@ -115,7 +115,9 @@ pip install flask
 
 ### **Archivo ****`inventario.json`**
 
-Este archivo almacena los productos del inventario. Ejemplo:
+Este archivo almacena los productos del inventario. Este archivo para poderse ejecutar las pruebas unitarias tiene que mantenerse con estos mismo datos. 
+
+####Ejemplo:
 
 ```json
 {
