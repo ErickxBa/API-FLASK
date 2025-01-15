@@ -130,23 +130,23 @@ Este archivo almacena los productos del inventario. Ejemplo:
 }
 ```
 
-### **Archivo ****`app.py`**
+### **Archivo ** **`app.py`**
 
 Contiene el código principal de la API, incluyendo las rutas y la lógica para manejar el inventario.
 
-### **Archivo ****`index.html`**
+### **Archivo ** **`index.html`**
 
 Una interfaz básica para interactuar con la API desde el navegador.
 
-### **Archivo ****`styles.css`**
+### **Archivo ** **`styles.css`**
 
 Estilos para la interfaz web.
 
-### **Archivo ****`scripts.js`**
+### **Archivo ** **`scripts.js`**
 
 Contiene la lógica de JavaScript para enviar solicitudes a la API y mostrar las respuestas.
 
-### **Archivo ****`test_app.py`**
+### **Archivo ** **`test_app.py`**
 
 Pruebas unitarias para verificar el correcto funcionamiento de la API.
 
@@ -154,13 +154,13 @@ Pruebas unitarias para verificar el correcto funcionamiento de la API.
 
 ## Ejecución
 
-1. Inicia el servidor Flask:
+1. Iniciar el servidor Flask:
 
    ```bash
    python app.py
    ```
 
-2. Abre el navegador y ve a:
+2. Abrir el navegador y ve a:
 
    ```
    http://127.0.0.1:5000/
@@ -191,17 +191,5 @@ python test_app.py
 5. **Actualizar Stock Válido:** Verifica que el stock de un producto existente pueda ser actualizado.
 6. **Actualizar Producto Inexistente:** Verifica que se devuelva un error 404 al intentar actualizar un producto que no existe.
 
----
-
-## Notas
-
-- Asegúrate de reiniciar el servidor Flask cada vez que realices cambios en el código.
-- Si los archivos estáticos (CSS o JS) no cargan, verifica que estén en la carpeta `static` y que las rutas sean correctas.
-
----
-
-## Autor
-
-Este proyecto fue desarrollado como una demostración de una API simple con Flask, incluyendo pruebas automatizadas y una interfaz web básica.
 
 
