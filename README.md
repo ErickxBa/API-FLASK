@@ -113,11 +113,11 @@ pip install flask
 ├── test_app.py
 ```
 
-### **Archivo ****`inventario.json`**
+### **Archivo** **`inventario.json`**
 
 Este archivo almacena los productos del inventario. Este archivo para poderse ejecutar las pruebas unitarias tiene que mantenerse con estos mismo datos. 
 
-####Ejemplo:
+###Ejemplo:
 
 ```json
 {
